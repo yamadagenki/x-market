@@ -978,9 +978,9 @@ blockquote {
   width: 28px;
   height: 28px;
   position: absolute;
-  top: 8px;
+  top: 50px;
   bottom: 0;
-  left: 0;
+  left: 20px;
   right: 0;
   margin: auto;
   z-index: 200;
