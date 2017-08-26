@@ -1,0 +1,24 @@
+category_slugs:
+  vitaminc: "ビタミンC"
+
+# Default, Defaults
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Jekyll Defaults
+title: X Market
+email: your-email@domain.com
+description: A
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Where can people find your site?
+url: "http://localhost:3000"
+# When developing, set this ^ equal to whatever localhost you're using
+
+# Socail Media links
+# Use these to link users to your organization's social media sites
+instagram: https://www.instagram.com/explore/tags/%E4%B8%9C%E4%BA%AC%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/
+facebook:
+google:
+
+plugins:
+  - jekyll-sitemap
