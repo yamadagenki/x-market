@@ -1,6 +1,6 @@
 ---
 layout: post
-title: スーパーマルチビタミン&ミネラル 120粒
+title: スーパーマルチビタミン&ミネラル
 date:   2017-08-25
 categories: vitaminc
 description: 大塚製薬 ネイチャーメイド
