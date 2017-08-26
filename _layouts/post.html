@@ -8,10 +8,12 @@ layout: default
   <span class="meta">{{ page.categories }} | {{ page.date | date_to_string }}</span>
   <h1 class="post-title">{{ page.title }}</h1>
   <hr>
-  <img src='{{ site.url }}{{page.thumbnail}}' class='img-responsive m-a'>
-  {% if page.caption %}<p class="caption">{{ page.caption }}</p>{% endif %}
+  <a href="{{page.item_url}}"><img src='{{ site.url }}{{page.thumbnail}}' class='img-responsive m-a'></a>
+  {% if page.caption %}<p class="caption">{{ page.description }}</p>{% endif %}
   <hr>
 
-  {{ content }}
+  <a href="{{post.review_url}}">レビューを見る</a>
+
+  {{content}}
 
 </div>
