@@ -2,7 +2,8 @@ module Jekyll
   module Slug2Name
     def slug2name(input)
       translate = {
-        'vitaminc' => 'ビタミンC'
+        'vitaminc' => 'ビタミンC',
+        'drink' => 'ドリンク'
       }
       slug = translate["#{input.first}"]
       slug ? slug : input
