@@ -1,0 +1,11 @@
+---
+layout: post
+title: 伊藤園 1日分の野菜
+date:   2017-08-29
+categories: drink
+description: 伊藤園
+thumbnail: /assets/img/thumbnails/20170829-itoen.jpg
+item_url: http://amzn.to/2xsBvS6
+review_url: http://amzn.to/2wEehuP
+---
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: キリン秋味
+date:   2017-08-29
+categories: drink
+description: キリン
+thumbnail: /assets/img/thumbnails/20170829-kilin.jpg
+item_url: http://amzn.to/2xshTh1
+review_url: http://amzn.to/2iD5Vhc
+---
+
